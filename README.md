@@ -6,4 +6,5 @@
 - 🌏 Currently coding from Toronto, inspired by my roots in Gujarat, India.
 - 🎮 Gaming enthusiast exploring tech with a playful spirit.
 
-
+## 📈 Stats 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Umanpatel&theme=radical)
