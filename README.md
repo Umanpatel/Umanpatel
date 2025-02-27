@@ -8,5 +8,3 @@
 
 ## 📈 Stats 
 ![](https://github-readme-streak-stats.herokuapp.com?user=Umanpatel&theme=github-dark&hide_border=true&border_radius=20)
-
-
