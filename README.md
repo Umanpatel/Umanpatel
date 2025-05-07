@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 - 🎨 Blending creativity with technical expertise to craft elegant solutions  
-- 🌱 Currently diving deeper into **React.js**, **Next.js**, **Redux**  
+- 🌱 Currently diving deeper into **React.js**, **Next.js**  
 - 🌍 Coding from **Toronto**, inspired by my roots in **Gujarat, India**  
 - 🎮 Gaming enthusiast exploring tech with a playful spirit  
 
